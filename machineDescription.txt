@@ -1,0 +1,10 @@
+500000000 10
+4 1000 5 15 25
+8 1000 5
+12 1000 5
+50 1000 5
+0 texto.txt 1 10000000 false
+3 imagem.jpeg 2 32000000 true
+3 musica.mp3 3 225000000 true
+4 documento.pdf 4 98000000 false
+6 video.mpeg 5 1200000000 false
